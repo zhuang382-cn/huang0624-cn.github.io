@@ -1,1 +1,12 @@
-# huang0624-cn.github.io
+# Hi there, I'm Zhengyao Huang 👋
+
+## About Me
+I am a first-year PhD student in Mathematics at **Durham University**. 
+
+My research interests lie in the **Calculus of Variations** and **Geometric Measure Theory**. Specifically, I am currently working on the **Optimal Transport** problem.
+
+![Zhengyao Huang](YOUR_IMAGE_NAME.jpg)
+
+## Get in Touch
+You can reach me via email at:
+📧 [phqv76@durham.ac.uk](mailto:phqv76@durham.ac.uk)
