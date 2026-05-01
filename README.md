@@ -13,3 +13,5 @@ My research interests lie in the **Calculus of Variations** and **Geometric Meas
 ## Get in Touch
 You can reach me via email at:
 📧 [phqv76@durham.ac.uk](mailto:phqv76@durham.ac.uk)
+
+<a href="./cv.pdf" target="_blank">View My CV</a>
