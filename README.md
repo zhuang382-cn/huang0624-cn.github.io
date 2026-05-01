@@ -14,4 +14,4 @@ My research interests lie in the **Calculus of Variations** and **Geometric Meas
 You can reach me via email at:
 📧 [phqv76@durham.ac.uk](mailto:phqv76@durham.ac.uk)
 
-<a href="./Zhengyao_Huang_CV" target="_blank">View My CV</a>
+<a href="./Zhengyao_Huang_CV.pdf" target="_blank">View My CV</a>
