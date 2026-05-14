@@ -14,7 +14,8 @@ My research interests lie in the **Calculus of Variations** and **Geometric Meas
 ## Preprints
 * [**A Sudakov Decomposition in Riemannian Manifolds with Positive Curvature**](https://arxiv.org/abs/2603.18935)  
   *arXiv:2603.18935*
-
+* [**Smirnov Decomposition of a Horizontal Vector Charge in the Heisenberg Group**](https://arxiv.org/abs/2605.12716)
+  *arXiv:2605.12716*
 ---
 
 ## Get in Touch
