@@ -1,38 +1,25 @@
-<div align="center">
+refine my github page: # Hi there, I'm Zhengyao Huang 👋
 
-# Hi there, I'm Zhengyao Huang 👋
+<p align="center">
+  <img src="zhengyao_picture.jpg" width="300" alt="Zhengyao Huang">
+</p>
 
-<img src="zhengyao_picture.jpg" width="260" alt="Zhengyao Huang">
+## About Me
+I am a first-year PhD student in [Mathematical Sciences](https://www.durham.ac.uk/departments/academic/mathematical-sciences/) at **Durham University**. I am working under the supervision of Wilhelm Klingenberg and Fernando Galaz-García.
 
-**PhD Student in Mathematical Sciences @ [Durham University](https://www.durham.ac.uk/departments/academic/mathematical-sciences/)**
-
-</div>
-
----
-
-## 🔬 About Me
-
-I am a first-year PhD student in Mathematical Sciences at Durham University, working under the supervision of Wilhelm Klingenberg and Fernando Galaz-García. 
-
-### 🧮 Research Interests
-My research lies at the intersection of analysis and geometry, with a specific focus on:
-* **Optimal Transport**
-* **Calculus of Variations**
-* **Geometric Measure Theory**
+My research interests lie in the **Calculus of Variations** and **Geometric Measure Theory**. Specifically, I am currently working on the **Optimal Transport** problem.
 
 ---
 
-## 📄 Preprints
-
-* **[Smirnov Decomposition of a Horizontal Vector Charge in the Heisenberg Group](https://arxiv.org/abs/2605.12716)** *arXiv:2605.12716*
-
-* **[A Sudakov Decomposition in Riemannian Manifolds with Positive Curvature](https://arxiv.org/abs/2603.18935)** *arXiv:2603.18935*
-
+## Preprints
+* [**A Sudakov Decomposition in Riemannian Manifolds with Positive Curvature**](https://arxiv.org/abs/2603.18935)  
+  *arXiv:2603.18935*
+* [**Smirnov Decomposition of a Horizontal Vector Charge in the Heisenberg Group**](https://arxiv.org/abs/2605.12716)
+  *arXiv:2605.12716*
 ---
 
-## 📫 Get in Touch
-
-I am always open to discussions, questions, or collaborations regarding Optimal Transport, Geometric Measure Theory, and related fields.
+## Get in Touch
+Feel free to reach out for collaborations or discussions regarding Optimal Transport and Geometric Measure Theory!
 
 * 📧 **Email:** [phqv76@durham.ac.uk](mailto:phqv76@durham.ac.uk)
-* 💼 **CV:** [View My CV](./Zhengyao_Huang_CV.pdf)
+* 💼 **CV:** <a href="./Zhengyao_Huang_CV.pdf" target="_blank">View My CV</a>
