@@ -1,4 +1,4 @@
-refine my github page: # Hi there, I'm Zhengyao Huang 👋
+# Hi there, I'm Zhengyao Huang 👋
 
 <p align="center">
   <img src="zhengyao_picture.jpg" width="300" alt="Zhengyao Huang">
